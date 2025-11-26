@@ -33,10 +33,6 @@ yarn-error.log*
 .env.local
 .env.*.local
 
-### Database ###
-*.sql
-database/
-
 ### Uploads ###
 uploads/
 /elecstore/uploads/
